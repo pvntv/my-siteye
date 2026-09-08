@@ -1,0 +1,28 @@
+.parent
+{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.parent2
+{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.parent3
+{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.footer
+{
+color: grey;
+}
+.fixed-footer {
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #e6ca98;
+  padding: 20px;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+}
